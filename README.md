@@ -1,1 +1,1 @@
-# Team-Hosier
+# VR Typing Tutorial
