@@ -19,3 +19,12 @@ This project aims to provide users with an interactive virtual keyboard and virt
 13. Build the project. 
 14. Plug in the headset to a computer and select the built .apk file to upload to the Oculus Developer App. 
 15. Lastly, put on the headset, head to apps -> unknown sources and select the game to play on the Oculus Quest and enjoy typing!
+
+# Here are some useful links:
+
+Link to the YouTube Presentation: https://youtu.be/4N3cVN9hKs0
+
+Link to the project website: http://127.0.0.1:5500/Website/index.html
+
+
+
